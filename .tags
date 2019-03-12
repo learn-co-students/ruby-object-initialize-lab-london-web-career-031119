@@ -1,0 +1,12 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Ruby Object Initialize Lab	/Users/manon/Development/code/ruby-object-initialize-lab-london-web-career-031119/README.md	/^# Ruby Object Initialize Lab$/;"	function	line:1
+Objectives	/Users/manon/Development/code/ruby-object-initialize-lab-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+Overview	/Users/manon/Development/code/ruby-object-initialize-lab-london-web-career-031119/README.md	/^## Overview$/;"	function	line:9
+Instructions	/Users/manon/Development/code/ruby-object-initialize-lab-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:13
+1. `Person	/Users/manon/Development/code/ruby-object-initialize-lab-london-web-career-031119/README.md	/^#### 1. `Person#initialize` with a Name$/;"	function	line:17
+2. `Dog	/Users/manon/Development/code/ruby-object-initialize-lab-london-web-career-031119/README.md	/^#### 2. `Dog#initialize` with Name and Breed defaulting to "Mutt"$/;"	function	line:21
